@@ -17,7 +17,7 @@ body {
   transition: height 0.5s;
   z-index: 3;
 }
-/* Abre a barra lateral */
+/* Abre a barra lateral. */
 .sidebar-aberta {
   height: 100%;
 }
